@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Fav Project**  
+🔭 &nbsp;My favorite Project is **CBRA-Andrea**  
 ⚡ &nbsp;Fun fact: **Hab keine Idee aber wär a Möglichkeit**
 
 ### 🛠️ Tech Stack
