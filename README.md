@@ -1,8 +1,23 @@
-<p align="center">
-  <a href="https://github.com/cbra-andrea">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=442&text=CBRA%20Andrea" alt="CBRA Andrea" />
-  </a>
-</p>
+<div style="
+  background-image: linear-gradient(90deg, rgba(255,255,255,0.4), rgba(0,0,0,0.4), rgba(255,255,255,0.4), rgba(0,0,0,0.4), rgba(255,255,255,0.4), rgba(0,0,0,0.4)); 
+  background-size: cover; 
+  background-position: center; 
+  height: 250px; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  border-radius: 8px;
+  margin: 20px;
+">
+  <h1 style="
+    color: white; 
+    margin: 0; 
+    font-family: Metropolis; 
+    font-size: 2.5rem;
+  ">
+    CBRA-Andrea
+  </h1>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=430&height=44&lines=My%20favorite%20color%20is%20blue!;I%20Love%20Coffee" alt="Typing headlines" />
